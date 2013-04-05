@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Z4ALL
 Tags: font, iconic font, theme enhancement, web fonts, webfonts, css font embed, font conversion, font embed, type, typography, fontface, font type, fonttype, WPMU, WordPress MU, WPMS, WP Multisite, Multisite, WordPress MS, WordPress Multisite, buddypress, bp, fonts, CSS,
 Requires at least: 2.6
 Tested up to: 3.5.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL, SimpleMediaCode
 License URI: http://simplemediacode.com/license/gpl/
 
@@ -27,6 +27,10 @@ The full suite of pictographic icons, examples, and documentation can be found a
 * And now for ***WordPreess***. 
 
 == Changelog ==
+
+= 1.0.1 =
+
+* fix font-awesome-corp CSS
 
 = 1.0.0 =
 
@@ -58,6 +62,10 @@ On page. Coming soon as wiki :)
 There are no questions for now! !
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+
+* fix font-awesome-corp CSS
 
 = 1.0.0 =
 

@@ -3,7 +3,7 @@
  * Plugin Name: Font Awesome for WordPress
  * Plugin URI: http://mediabox.lv/#utm_source=wordpress&utm_medium=plugin&utm_campaign=draugiemsaypoga_widget&utm_content=v01
  * Description: WordPress spraudnis "Draugiem.lv/say" pogas pievienošana satura apakšā ar integrētu bit.ly saišu saīsināšanu
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 2.6
  * Author: Rolands Umbrovskis
  * Author URI: http://umbrovskis.com
@@ -16,7 +16,7 @@
  */
 // add_action( 'widgets_init', 'meblogfrypepage_load_widgets' );
 
-define('FAMWPV','1.0.0'); // version @since 1.0.0
+define('FAMWPV','1.0.1'); // version @since 1.0.0
 define('FAMWPF','fontawesomewp'); // folder @since 1.0.0
 define('FAMWPL',dirname(__FILE__)); // location @since 1.0.0
 define('FAMWPCSS',plugins_url(FAMWPF).'/css'); // CSS location @since 1.0.0
