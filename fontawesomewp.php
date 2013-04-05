@@ -56,7 +56,7 @@ function fontawesomewp_init() {
 		wp_enqueue_style('font-awesome');
 		wp_register_style('font-awesome-social', FAMWPCSS.'/font-awesome-social.css', array('font-awesome'), '2.0', 'all');
 		wp_enqueue_style('font-awesome-social');
-		wp_register_style('font-awesome-corp', FAMWPCSS.'/font-awesome-corp', array('font-awesome'), '2.0', 'all');
+		wp_register_style('font-awesome-corp', FAMWPCSS.'/font-awesome-corp.css', array('font-awesome'), '2.0', 'all');
 		wp_enqueue_style('font-awesome-corp');
 		wp_register_style('font-awesome-ext', FAMWPCSS.'/font-awesome-ext.css', array('font-awesome'), '2.0', 'all');
 		wp_enqueue_style('font-awesome-ext');
